@@ -123,3 +123,4 @@
 ||lms.roblox.com^$important
 ||dit.whatsapp.net^$important
 ||ephemeralcounters.api.roblox.com^$important
+||track.skynetworkcdn.com^$important
