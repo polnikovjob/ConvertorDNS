@@ -110,3 +110,9 @@
 ||adblock.telemetry.eyeo.com^$important
 ||adblockplus.telemetry.eyeo.com^$important
 ||www.tjk-njk.com^$important
+||4d8tvs.tdum.alibaba.com^$important
+||firebaselogging-pa.googleapis.com^$important
+||lightstep.kaizen.nvidia.com^$important
+||events.gfe.nvidia.com^$important
+||crashlyticsreports-pa.googleapis.com^$important
+||a.wb.ru^$important
