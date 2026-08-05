@@ -116,3 +116,9 @@
 ||events.gfe.nvidia.com^$important
 ||crashlyticsreports-pa.googleapis.com^$important
 ||a.wb.ru^$important
+||officehub.nel.measure.office.net^$important
+||nel.wb.ru^$important
+||w3-reporting-nel.reddit.com^$important
+||reporting.go-mpulse.net^$important
+||www.tns-counter.ru^$important
+||sdk-api.apptracer.ru^$important
