@@ -122,3 +122,9 @@
 ||reporting.go-mpulse.net^$important
 ||www.tns-counter.ru^$important
 ||sdk-api.apptracer.ru^$important
+||evt.uchi.ru^$important
+||tracker-api.my.com^$important
+||api.g.micloud.xiaomi.net^$important
+||api.sec.intl.miui.com^$important
+||ip4.tracker-api.my.com^$important
+||ru.resolver.msg.global.xiaomi.net^$important
