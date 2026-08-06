@@ -134,3 +134,8 @@
 ||api.aurogon.intl.miui.com^$important
 ||log32-normal-sg.capcutapi.com^$important
 ||cdn-exp-sg-recommend.pt.xiaomi.com^$important
+||federatedcompute-pa.googleapis.com^$important
+||mssdk-sg.capcutapi.com^$important
+||log32-normal-sg.capcutapi.com^$important
+||zombie.duolingo.com^$important
+||adt52i.tdum.alibaba.com^$important
