@@ -128,3 +128,9 @@
 ||api.sec.intl.miui.com^$important
 ||ip4.tracker-api.my.com^$important
 ||ru.resolver.msg.global.xiaomi.net^$important
+||3817mp.tdum.alibaba.com^$important
+||adt52i.tdum.alibaba.com^$important
+||analytics.api.polaris-iot.com^$important
+||api.aurogon.intl.miui.com^$important
+||log32-normal-sg.capcutapi.com^$important
+||cdn-exp-sg-recommend.pt.xiaomi.com^$important
