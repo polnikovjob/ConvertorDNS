@@ -145,3 +145,9 @@
 ||pagead2.googlesyndication.com^$important
 ||amc.yandex.ru^$important
 ||cdn.carrotquest.app^$important
+||log.api-maps.yandex.ru^$important
+||amc.yandex.ru^$important
+||ms.applovin.com^$important
+||sdkapi.dsp-api.moloco.com^$important
+||stats.avito.ru^$important
+||sts.applovin.com^$important
