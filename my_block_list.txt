@@ -139,3 +139,9 @@
 ||log32-normal-sg.capcutapi.com^$important
 ||zombie.duolingo.com^$important
 ||adt52i.tdum.alibaba.com^$important
+||sentry.litres.io^$important
+||lib.rus.ec^$important
+||log.api-maps.yandex.ru^$important
+||pagead2.googlesyndication.com^$important
+||amc.yandex.ru^$important
+||cdn.carrotquest.app^$important
