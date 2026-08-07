@@ -163,3 +163,9 @@
 ||likemore-go.imgsmail.ru^$important
 ||snjkh9.launches.appsflyersdk.com^$important
 ||o167200.ingest.sentry.io^$important
+||44212.ms.vk.ru^$important
+||43212.ms.vk.ru^$important
+||45212.ms.vk.ru^$important
+||f0dhqn.tdum.alibaba.com^$important
+||33212.ms.vk.ru^$important
+||player.stats.live-video.net^$important
