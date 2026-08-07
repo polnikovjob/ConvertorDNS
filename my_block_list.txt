@@ -151,3 +151,9 @@
 ||sdkapi.dsp-api.moloco.com^$important
 ||stats.avito.ru^$important
 ||sts.applovin.com^$important
+||api.device.xiaomi.net^$important
+||api.micloud.xiaomi.net^$important
+||stats.rustore.ru^$important
+||watson.events.data.microsoft.com^$important
+||api2.amplitude.com^$important
+||default.exp-tas.com^$important
