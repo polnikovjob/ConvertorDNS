@@ -157,3 +157,9 @@
 ||watson.events.data.microsoft.com^$important
 ||api2.amplitude.com^$important
 ||default.exp-tas.com^$important
+||f0dhqn.tdum.alibaba.com^$important
+||mobile.events.data.microsoft.com^$important
+||sessions.bugsnag.com^$important
+||likemore-go.imgsmail.ru^$important
+||snjkh9.launches.appsflyersdk.com^$important
+||o167200.ingest.sentry.io^$important
