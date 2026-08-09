@@ -169,3 +169,9 @@
 ||f0dhqn.tdum.alibaba.com^$important
 ||33212.ms.vk.ru^$important
 ||player.stats.live-video.net^$important
+||journal-bt.wildberries.ru^$important
+||snjkh9.inapps.appsflyersdk.com^$important
+||icyh3e.ru^$important
+||analytics.dns-shop.ru^$important
+||cphxts.tdum.alibaba.com^$important
+||clienttracing-pa.googleapis.com^$important
