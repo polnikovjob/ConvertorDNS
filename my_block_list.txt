@@ -175,3 +175,9 @@
 ||analytics.dns-shop.ru^$important
 ||cphxts.tdum.alibaba.com^$important
 ||clienttracing-pa.googleapis.com^$important
+||dsp.mpartner.digital^$important
+||pixel.dsp.onetarget.ru^$important
+||px4.admon.pro^$important
+||t.rtbwave.com^$important
+||rtb-eu-warsaw.intent.ai^$important
+||370ijp.tdum.alibaba.com^$important
