@@ -181,3 +181,9 @@
 ||t.rtbwave.com^$important
 ||rtb-eu-warsaw.intent.ai^$important
 ||370ijp.tdum.alibaba.com^$important
+||functional.events.data.microsoft.com^$important
+||static.popmechanic.ru^$important
+||static.hotjar.com^$important
+||bat.bing.com^$important
+||personalization-web.g.mindbox.ru^$important
+||ssl.google-analytics.com^$important
