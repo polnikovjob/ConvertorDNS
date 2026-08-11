@@ -195,3 +195,9 @@
 ||counter.yadro.ru^$important
 ||eu-mobile.events.data.microsoft.com^$important
 ||browser.pipe.aria.microsoft.com^$important
+||dm.hybrid.ai^$important
+||ssp.al-adtech.com^$important
+||dmg.digitaltarget.ru^$important
+||bs.serving-sys.ru^$important
+||px.adhigh.net^$important
+||sync.gonet-ads.com^$important
