@@ -187,3 +187,9 @@
 ||bat.bing.com^$important
 ||personalization-web.g.mindbox.ru^$important
 ||ssl.google-analytics.com^$important
+||cdn.traffmovie.com^$important
+||bv.porkpenlent.com^$important
+||7078218aaa.35f95a147d.com^$important
+||js.wpadmngr.com^$important
+||s.wnhdrgxqh.com^$important
+||counter.yadro.ru^$important
