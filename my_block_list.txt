@@ -193,3 +193,5 @@
 ||js.wpadmngr.com^$important
 ||s.wnhdrgxqh.com^$important
 ||counter.yadro.ru^$important
+||eu-mobile.events.data.microsoft.com^$important
+||browser.pipe.aria.microsoft.com^$important
