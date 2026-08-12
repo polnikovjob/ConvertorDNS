@@ -1,3 +1,9 @@
+||lib.usedesk.ru^$important
+||startup-mobile.ap.yandex-net.ru^$important
+||startup.mobile.webvisor.com^$important
+||in.appcenter.ms^$important
+||connect-drru.hispace.dbankcloud.ru^$important
+||mcc-intl.inf.miui.com^$important
 ||24ssw9.tdum.alibaba.com^$important
 ||gcuzc9.tdum.alibaba.com^$important
 ||aplus.qwen.ai^$important
