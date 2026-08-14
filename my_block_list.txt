@@ -1,3 +1,9 @@
+||statistics-bt.wildberries.ru^$important
+||marketplace-sentry.wb.ru^$important
+||antibot.wildberries.ru^$important
+||banners-bt.wildberries.ru^$important
+||notify.bugsnag.appstore.a2z.com^$important
+||otpi0g.launches.appsflyersdk.com^$important
 ||nsp-logservice-hiview-p01-drru.obs.ru-northwest-2.myhuaweicloud.ru^$important
 ||content.adriver.ru^$important
 ||advisor.api.2gis.ru^$important
