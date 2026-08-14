@@ -1,3 +1,9 @@
+||nsp-logservice-hiview-p01-drru.obs.ru-northwest-2.myhuaweicloud.ru^$important
+||content.adriver.ru^$important
+||advisor.api.2gis.ru^$important
+||s1.bss.2gis.com^$important
+||m-api.a.mts.ru^$important
+||metrics5.data.hicloud.com^$important
 ||lib.usedesk.ru^$important
 ||startup-mobile.ap.yandex-net.ru^$important
 ||startup.mobile.webvisor.com^$important
