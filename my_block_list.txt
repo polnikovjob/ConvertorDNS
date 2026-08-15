@@ -1,3 +1,9 @@
+||graph.instagram.com^$important
+||us.statusapi.micloud.xiaomi.net^$important
+||mediation.goog^$important
+||notify.bugsnag.appstore.a2z.com^$important
+||telemetry.sdk.inmobi.com^$important
+||logservice-drru.dt.dbankcloud.ru^$important
 ||statistics-bt.wildberries.ru^$important
 ||marketplace-sentry.wb.ru^$important
 ||antibot.wildberries.ru^$important
