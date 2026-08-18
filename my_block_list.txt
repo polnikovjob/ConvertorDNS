@@ -1,3 +1,7 @@
+||stat.gc.vkplay.ru^$important
+||zombie.duolingo.com^$important
+||acollector.wb.ru^$important
+||tvp-ads-log.samsungads.com^$important
 ||graph.instagram.com^$important
 ||us.statusapi.micloud.xiaomi.net^$important
 ||mediation.goog^$important
