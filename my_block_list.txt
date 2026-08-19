@@ -1,3 +1,4 @@
+||aemetrics.aliexpress.ru^$important
 ||stat.gc.vkplay.ru^$important
 ||zombie.duolingo.com^$important
 ||acollector.wb.ru^$important
