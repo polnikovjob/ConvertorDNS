@@ -1,3 +1,8 @@
+||metrics5.dt.dbankcloud.ru^$important
+||8mudbv-cdn-settings.appsflyersdk.com^$important
+||clickbeat.sberdevices.ru^$important
+||api.s.mindbox.ru^$important
+||tvx.adgrx.com^$important
 ||aemetrics.aliexpress.ru^$important
 ||stat.gc.vkplay.ru^$important
 ||zombie.duolingo.com^$important
