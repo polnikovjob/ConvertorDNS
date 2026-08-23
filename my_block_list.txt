@@ -1,3 +1,9 @@
+||mon.tiktokv.com^$important
+||rt.applovin.com^$important
+||sentry-api.sberdevices.ru^$important
+||rt.applvn.com^$important
+||api16-access-wf-sg.pangle.io^$important
+||cdn.cookielaw.org^$important
 ||metrics5.dt.dbankcloud.ru^$important
 ||8mudbv-cdn-settings.appsflyersdk.com^$important
 ||clickbeat.sberdevices.ru^$important
