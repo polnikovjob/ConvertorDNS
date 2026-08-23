@@ -1,4 +1,10 @@
 ||mon.tiktokv.com^$important
+||public-api.uxfeedback.ru^$important
+||exchange.buzzoola.com^$important
+||pb.adriver.ru^$important
+||sentry-mobile.avito.ru^$important
+||launches.appsflyersdk.com^$important
+||mon.tiktokv.com^$important
 ||rt.applovin.com^$important
 ||sentry-api.sberdevices.ru^$important
 ||rt.applvn.com^$important
