@@ -1,3 +1,9 @@
+||excess-ga.duolingo.com$important
+||appsgrowthpromo-pa.googleapis.com$important
+||stats.vk-portal.net$important
+||trace-flow.ru$important
+||csp.yandex.net$important
+||xgapromomanager-pa.googleapis.com$important
 ||s1.bss.2gis.com^$important
 ||advisor.api.2gis.ru^$important
 ||7078218aaa.35f95a147d.com^$important
