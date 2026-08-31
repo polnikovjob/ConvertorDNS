@@ -1,3 +1,9 @@
+||analytics.us.tiktok.com^$important
+||authbe.sec.intl.miui.com^$important
+||cdp.cloud.unity3d.com^$important
+||events-drru.op.dbankcloud.ru^$important
+||sentry.ozon.ru^$important
+||dnkeeper-drru.platform.dbankcloud.ru^$important
 ||mobile.yandexadexchange.net^$important
 ||metrics-drru.dt.hihonorcloud.com^$important
 ||otpi0g.cdn-settings.appsflyersdk.com^$important
