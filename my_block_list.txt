@@ -1,3 +1,9 @@
+||cdn.digitalcaramel.com^$important
+||tns-counter.ru^$important
+||krut.link^$important
+||mod.calltouch.ru^$important
+||ms.applvn.com^$important
+||cdn.advideo.ru^$important
 ||data.mistat.intl.xiaomi.com^$important
 ||pix-ht.trafficjunky.net^$important
 ||static.trafficjunky.com^$important
