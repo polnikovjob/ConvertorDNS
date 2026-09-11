@@ -100,7 +100,6 @@
 ||googleads.g.doubleclick.net^$important
 ||static.doubleclick.net^$important
 ||zombie.duolingo.com^$important
-||etahub.com^$important
 ||default.exp-tas.com^$important
 ||adblock.telemetry.eyeo.com^$important
 ||adblockplus.telemetry.eyeo.com^$important
