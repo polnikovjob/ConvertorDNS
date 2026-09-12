@@ -1,5 +1,3 @@
-||video.sacdnssedge.com^$important
-||htl-cdn.adtng.com^$important
 ||excess.duolingo.com^$important
 ||ccc.sys.intl.xiaomi.com^$important
 ||wcm.weborama-tech.ru^$important
