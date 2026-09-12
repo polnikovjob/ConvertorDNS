@@ -14,4 +14,3 @@
 ||claude.ai^$dnsrewrite=NOERROR;A;45.155.204.190
 ||trueachievements.com^$dnsrewrite=NOERROR;A;45.155.204.190
 ||spotify.com^$dnsrewrite=NOERROR;A;45.155.204.190
-||anythingllm.com^$dnsrewrite=NOERROR;A;45.155.204.190
