@@ -80,7 +80,6 @@
 ||mssdk-sg.capcutapi.com^$important
 ||cdn.carrotquest.app^$important
 ||a.nel.cloudflare.com^$important
-||static.cloudflareinsights.com^$important
 ||cdn.cookielaw.org^$important
 ||firebase-settings.crashlytics.com^$important
 ||event-portal.dailyinnovation.biz^$important
