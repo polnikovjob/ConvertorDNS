@@ -1,6 +1,7 @@
 @||etahub.com^$important
 @||adtng.com^$important
 @||trafficjunky.net^$important
+@||pix-cdn77.trafficjunky.net^$important
 ||excess.duolingo.com^$important
 ||ccc.sys.intl.xiaomi.com^$important
 ||wcm.weborama-tech.ru^$important
