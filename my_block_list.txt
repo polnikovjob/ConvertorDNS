@@ -1,6 +1,6 @@
 @||etahub.com^$important
-@||htl-cdn.adtng.com^$important
-@||ht-cdn2.adtng.com^$important
+@||adtng.com^$important
+@||trafficjunky.net^$important
 ||excess.duolingo.com^$important
 ||ccc.sys.intl.xiaomi.com^$important
 ||wcm.weborama-tech.ru^$important
@@ -12,8 +12,6 @@
 ||ms.applvn.com^$important
 ||cdn.advideo.ru^$important
 ||data.mistat.intl.xiaomi.com^$important
-||pix-ht.trafficjunky.net^$important
-||static.trafficjunky.com^$important
 ||r0.mradx.net^$important
 ||xs-ga.duolingo.com^$important
 ||ads.vk.com^$important
