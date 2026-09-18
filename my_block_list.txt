@@ -1,6 +1,7 @@
 @@||etahub.com^$important
 @@||adtng.com^$important
 @@||trafficjunky.net^$important
+@@||pix-cdn77.trafficjunky.net^$important
 ||excess.duolingo.com^$important
 ||ccc.sys.intl.xiaomi.com^$important
 ||wcm.weborama-tech.ru^$important
@@ -221,7 +222,6 @@
 ||www.tjk-njk.com^$important
 ||cm.tns-counter.ru^$important
 ||www.tns-counter.ru^$important
-||pix-cdn77.trafficjunky.net^$important
 ||inference-location-livenet.trafficmanager.net^$important
 ||cdn.traffmovie.com^$important
 ||syndication.twitter.com^$important
