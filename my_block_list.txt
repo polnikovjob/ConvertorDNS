@@ -4,7 +4,11 @@
 @@||trafficjunky.net^$important
 @@||etahub.com^$important
 @@||adtng.com^$important 
-@@||video.sacdnssedge.com^$important 
+@@||video.sacdnssedge.com^$important
+||static.cloudflareinsights.com^$important
+||verify.yandex.ru^$important
+||ru.viadata.store^$important
+||cstatic-ru-cv.weborama-tech.ru^$important
 ||excess.duolingo.com^$important
 ||ccc.sys.intl.xiaomi.com^$important
 ||wcm.weborama-tech.ru^$important
