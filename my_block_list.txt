@@ -5,6 +5,12 @@
 @@||etahub.com^$important
 @@||adtng.com^$important 
 @@||video.sacdnssedge.com^$important
+||cs.avito.ru^$important
+||cdn.uxfeedback.ru^$important
+||x.blueduckredapple.com^$important
+||api.bidmachine.io^$important
+||observe-tcp.mtgglobals.com^$important
+||x.thecatmachine.com^$important
 ||static.cloudflareinsights.com^$important
 ||verify.yandex.ru^$important
 ||ru.viadata.store^$important
