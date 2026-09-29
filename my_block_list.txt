@@ -5,6 +5,12 @@
 @@||etahub.com^$important
 @@||adtng.com^$important 
 @@||video.sacdnssedge.com^$important
+||view.adjust.com^$important
+||media-adv.market.yandex.ru^$important
+||logs-01.loggly.com^$important
+||static.bumlam.com^$important
+||952212.log.rutube.ru^$important
+||yast.rutube.ru^$important
 ||cs.avito.ru^$important
 ||cdn.uxfeedback.ru^$important
 ||x.blueduckredapple.com^$important
