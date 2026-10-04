@@ -5,6 +5,12 @@
 @@||etahub.com^$important
 @@||adtng.com^$important 
 @@||video.sacdnssedge.com^$important
+||s.pemsrv.com^$important
+||egun2s.tdum.alibaba.com^$important
+||sdkopmetrics-us.dsp-api.moloco.com^$important
+||go.rmishe.com^$important
+||pls.prd.mz.internal.unity3d.com^$important
+||google-analytics.com^$important
 ||x.everestop.io^$important
 ||config.inmobi.com^$important
 ||analytics-tcp.mtgglobals.com^$important
