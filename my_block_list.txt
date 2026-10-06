@@ -5,6 +5,12 @@
 @@||etahub.com^$important
 @@||adtng.com^$important 
 @@||video.sacdnssedge.com^$important
+||videoroll.net^$important
+||o4506106988134400.ingest.us.sentry.io^$important
+||gateway.unityads.unity3d.com^$important
+||nackhui.com^$important
+||kurwa-bober.ninja^$important
+||st.top100.ru^$important
 ||s.pemsrv.com^$important
 ||egun2s.tdum.alibaba.com^$important
 ||sdkopmetrics-us.dsp-api.moloco.com^$important
