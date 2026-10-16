@@ -5,6 +5,12 @@
 @@||etahub.com^$important
 @@||adtng.com^$important 
 @@||video.sacdnssedge.com^$important
+||sentry-relay.opera-api.com^$important
+||goya.rutube.ru^$important
+||default.bbc-reporting-api.app^$important
+||cnt.rambler.ru^$important
+||api.quago.io^$important
+||collector.snowplow.supercell.com^$important
 ||ads.betweendigital.com^$important
 ||hb.bumlam.com^$important
 ||ssp.hybrid.ai^$important
