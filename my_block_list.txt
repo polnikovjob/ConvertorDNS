@@ -5,6 +5,11 @@
 @@||etahub.com^$important
 @@||adtng.com^$important 
 @@||video.sacdnssedge.com^$important
+||jupiter.rus.sys.miui.com^$important
+||chat.autofaq.ai^$important
+||sdk-api-v1.singular.net^$important
+||tnc-sg.capcutapi.com^$important
+||sentry.appodeal.com^$important
 ||log.rutube.ru^$important
 ||551211.ms.dzen.ru^$important
 ||531211.ms.dzen.ru^$important
