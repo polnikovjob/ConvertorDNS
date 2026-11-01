@@ -5,6 +5,12 @@
 @@||etahub.com^$important
 @@||adtng.com^$important 
 @@||video.sacdnssedge.com^$important
+||sdkconfig.rus.xiaomi.com^$important
+||widgets.mango-office.ru^$important
+||o346603.ingest.sentry.io^$important
+||vortex.data.microsoft.com^$important
+||cdn.diginetica.net^$important
+||eaxv2y.tdum.alibaba.com^$important
 ||sdkconfig.ad.intl.xiaomi.com^$important
 ||prod-mediate-events.applovin.com^$important
 ||player-metrics.kinescope.io^$important
