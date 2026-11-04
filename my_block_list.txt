@@ -5,6 +5,11 @@
 @@||etahub.com^$important
 @@||adtng.com^$important 
 @@||video.sacdnssedge.com^$important
+||tr.highstar.shop^$important
+||tracker.bittor.pw^$important
+||banner.appsflyersdk.com^$important
+||sstats.adobe.com^$important
+||websdk.appsflyer.com^$important
 ||sdkconfig.rus.xiaomi.com^$important
 ||widgets.mango-office.ru^$important
 ||o346603.ingest.sentry.io^$important
