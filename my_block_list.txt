@@ -5,6 +5,12 @@
 @@||etahub.com^$important
 @@||adtng.com^$important 
 @@||video.sacdnssedge.com^$important
+||browser-intake-us5-datadoghq.com^$important
+||faro.civitai.com^$important
+||us.i.posthog.com^$important
+||sentry.baseomni.ru^$important
+||tt-gecko-sg.capcutapi.com^$important
+||mediation-sg2-log.pangle.io^$important
 ||tr.highstar.shop^$important
 ||tracker.bittor.pw^$important
 ||banner.appsflyersdk.com^$important
