@@ -5,6 +5,12 @@
 @@||etahub.com^$important
 @@||adtng.com^$important 
 @@||video.sacdnssedge.com^$important
+||dr2.yandex.net^$important
+||mixpanel.mts-link.ru^$important
+||dmp.sbermarketing.ru^$important
+||adsmetadata.mobileadexchange.net^$important
+||script.marquiz.ru^$important
+||i-sg.capcutapi.com^$important
 ||notifications-ueeshp-pa.googleapis.com^$important
 ||tracker.t-rb.org^$important
 ||8mudbv-launches.appsflyersdk.com^$important
